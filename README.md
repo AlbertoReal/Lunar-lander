@@ -24,3 +24,5 @@ Dentro del div del 50% de ancho que está situado en la parte central se encuent
 Dentro del div del 25% restante situado a la derecha de la página se encuentran un div  en el cual se encuentra el botón que            activará la propulsión de la nave (en la versión funcional) en estos momentos redirige a la misma página.
 
 Una vez definidos los elementos y las dos páginas (html) la que contiene la información y la que contiene todos los elementos que posteriormente serán funcionales, se crearon dos archivos CSS uno para la version de movil y otro para la versión de escritorio (PC)  dichos archivos CSS actuar sobre los mismos HTML con un selector de CSS situado en el head selecciona el CSS a cargar en relación al ancho de la pantalla en el que se ejecute.
+
+https://rawgit.com/AlbertoReal/Lunar-lander/master/lunar.html
