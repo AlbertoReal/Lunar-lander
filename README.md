@@ -2,12 +2,12 @@
 
 ## Para realizar esta práctica se ha respetado en la medida de lo posible el proyecto original
 
-- Se han definido 3 <div> principales de 25% de ancho, 50% de ancho y 25% de ancho para cubrir el ancho total de la pantalla a usar, dichos <div> tienen una altura del 100%.
+- Se han definido 3 <div> principales de 25% de ancho, 50% de ancho y 25% de ancho para cubrir el ancho total de la pantalla a usar,          dichos <div> tienen una altura del 100%.
 
    -Dentro del el <div> situado a la derecha se ha colocado dos <div> de menor tamaño:
 
     -El <div> situado en la parte superior contiene los marcadores de combustible, velocidad y altura.
-El otro <div> contiene una imagen de la tierra.
+         El otro <div> contiene una imagen de la tierra.
 
     -Dentro del <div> del 50% de ancho que está situado en la parte central se encuentra un <div> con la imagen de la nave en este caso y ya que es una versión sin función se ha colocado la imagen de la nave como si tuviera la propulsión activada (botón power apretado).
 
